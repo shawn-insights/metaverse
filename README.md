@@ -1,5 +1,8 @@
 # Metaverse as a Next Generation Ubiquitous & Internet Biz
 
+<div dir="rtl">Dec/11/2022</div>
+
+
 **TABLE OF CONTENTS**
 
 - [Background](#😭-background)
@@ -41,8 +44,8 @@ The following articles are to share the idea of Meta-Biz as tne next generation 
 >
 > - Special thanks to [James D.K. Kim](https://www.linkedin.com/in/james-d-k-kim-9990975b/) (SVP of VIRNECT, Former Head of Mixed Reality Lab at Samsung) whom I worked with for Metaverse project in 2007.
 > - He proposed new paradigms of metaverse economy like Z industry and space innovation and influenced me a lot.
-> - Afterwards, I could ideate and publish this [Meta-Biz which combined the ubiquitous and internet business](./docs/Meta_Biz_KR_2008.pdf) based on amazing collaboration with the following passionate and professional colleagues in 2008.
->   - [Jinyoung Kim](https://github.com/ifdef-stargazer)([Manager of SK Telecom](https://www.linkedin.com/in/starlitday/)), [Liah Cha](https://github.com/liahcha)([Director of SK Innovation](https://www.linkedin.com/in/liahcha/)), [Seokmin Lee](https://github.com/hiddenwill-git)([Fellow/Head of Data of LG Electronics](https://www.linkedin.com/in/seokmin-lee-11695193/))
+> - Afterwards, I could ideate and publish this [Meta-Biz which combined the ubiquitous and internet business](./docs/Meta_Biz_KR_2008.pdf) based on amazing collaboration with the following passionate and professional leaders and colleagues in 2008.
+>   - [Jinyoung Kim](https://github.com/ifdef-stargazer)([Manager of SK Telecom](https://www.linkedin.com/in/starlitday/)), [Liah Cha](https://github.com/liahcha)([Director of SK Innovation](https://www.linkedin.com/in/liahcha/)), [Seokmin Lee](https://github.com/hiddenwill-git)([Fellow/Head of Data of LG Electronics](https://www.linkedin.com/in/seokmin-lee-11695193/)), [Jong Hwan Kim](https://www.linkedin.com/in/%EC%A2%85%ED%99%98-%EA%B9%80-731730108/)(Director of Bellock Inc.)
 
 ## 🧠 Brainstorming
 
