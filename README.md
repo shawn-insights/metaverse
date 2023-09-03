@@ -14,12 +14,12 @@
 ## 😭 Background
 - We are in the economic recession now based on many factors such as inflation and war in the world.
 - More than **88,000 workers** in the U.S. tech sector have been **laid off** in mass job cuts in 2022, according to a [Crunchbase News tally](https://news.crunchbase.com/startups/tech-layoffs-2022/).
-- Therefore, I would like to think of **how to enhance the economic situations** based on more **job opportunities creation**.
+- Therefore, I would like to think of **how to enhance the economic situations** based on more **biz/tech/job opportunities creation**.
 - As one of ways to expand the business area, I would like to suggest the different approach of **Metaverse economy** as the **next generation ubiquitous business**.
 
 ## 💰 Different Approach from U-Biz to Meta-Biz
 
-- Someone think that Metaverse may fail as virtual reality is a separate area with the current internet business.
+- Someone thinks Metaverse may fail and misunderstands it is only virtual reality business which is a separate area with the current internet business.
 - However, we could differently think such that we already live in Metaverse. Because the real world is part of Metaverse which calls Mixed Reality.
 - Hence, I would like to suggest a new idea of formula where `Meta-Biz = V-Biz + U-Biz + E-Biz + Offline-Biz` as the following picture and table.
 
@@ -35,7 +35,7 @@ Biz Area        | Description         | Different Thinking
 
 ## 📝 Article
 
-The following articles are to share the idea of Meta-Biz as tne next generation ubiquitous business. It was written in Korean in 2008 and has been translated by Google Translator in 2022. (So, there might be mistranslation or typo.)
+The following articles are to share the idea of Meta-Biz as the next generation ubiquitous business. It was written in Korean in 2008 and has been translated by Google Translator in 2022. (So, there might be mistranslation or typo.)
 
 - [Meta-Biz as a next generation U-Biz (KR)](./docs/Meta_Biz_KR_2008.pdf)
 - [Meta-Biz as a next generation U-Biz (EN - Auto-translated by Google Translator)](./docs/Meta_Biz_AutoTranslation_EN_2008.pdf)
